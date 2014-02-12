@@ -114,7 +114,7 @@ Entities are managed by the entity manager。The entity manager is represented b
 
 待续：http://docs.oracle.com/javaee/5/tutorial/doc/bnbqw.html
 
-
+http://www.studytrails.com/frameworks/spring/spring-hibernate-jpa.jsp
 
 ### Requirements for Entity Classes
 ### Persistent Fields and Properties in Entity Classes
